@@ -1,0 +1,53 @@
+{
+    "startLocation": {
+      "description": "Yellowknife, CAN",
+      "type": "Point",
+      "coordinates": [-114.406097, 62.439943],
+      "address": "Yellowknife, NT X1A 2L2, Canada"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 8,
+    "images": ["aurora-1.jpg", "aurora-2.jpg", "aurora-3.jpg"],
+    "startDates": [
+      "2024-12-15T00:00:00.000Z",
+      "2025-01-05T00:00:00.000Z",
+      "2025-02-20T00:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2975",
+    "name": "Aurora Borealis Experience",
+    "duration": 5,
+    "maxGroupSize": 12,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 1999,
+    "summary": "Witness the mesmerizing Aurora Borealis in the far north",
+    "description": "Join us for a 5-day adventure to see the breathtaking Aurora Borealis. Our tour includes guided trips to the best locations for viewing the Northern Lights, as well as opportunities for dog sledding and snowmobiling. Experience the beauty of the Canadian wilderness at night, with expert guides to ensure a safe and unforgettable trip.",
+    "imageCover": "aurora-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2979",
+        "description": "Aurora Village",
+        "type": "Point",
+        "coordinates": [-114.351944, 62.482222],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2978",
+        "description": "Yellowknife Ice Road",
+        "type": "Point",
+        "coordinates": [-114.371736, 62.454194],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2977",
+        "description": "Prelude Lake",
+        "type": "Point",
+        "coordinates": [-114.239275, 62.537222],
+        "day": 4
+      }
+    ]
+  }
+  
