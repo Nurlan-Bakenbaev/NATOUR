@@ -1,0 +1,11 @@
+# .gitignore
+node_modules/
+dist/
+*.log
+*.tmp
+# .eslintignore
+node_modules/
+dist/
+build/
+config.env/
+node_modules/
