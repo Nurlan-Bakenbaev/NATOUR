@@ -1,10 +1,6 @@
 const express = require('express');
 const {
   postTour,
-  getAll,
-  getByID,
-  updateById,
-  deleteById,
 } = require('./controllers/tourControllers');
 const {
   getAllUsers,
