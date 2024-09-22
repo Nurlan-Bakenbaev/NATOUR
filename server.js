@@ -7,10 +7,7 @@ const app = require("./index");
 const DB = process.env.MONGODB_DATA_BASE;
 
 mongoose
-  .connect(DB, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect(DB)
   .then(() => {
     console.log("Connected to MongoDB successfully");
   })
